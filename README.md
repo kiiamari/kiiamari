@@ -1,16 +1,15 @@
-## Hi there 👋
+# hi you ! I'm kiia-mari :-)
 
-<!--
-**kiiamari/kiiamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI Artist & Designer based in Helsinki with a passion for crafting engaging, intuitive user interfaces. I’m currently on my third year of pursuing a Bachelor's Degree in Digital Design (UI/UX) and working on creative projects that explore storytelling, UX/UI, and playful interaction.
 
-Here are some ideas to get you started:
+🎮 **Right now, I am looking into opportunities in the game industry** — I'd love to contribute to creating games where players can focus on the fun with a seamless and accessible UI!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring:
+- game UI/UX design workflows  
+- learning the fundamentals of GitHub for version control and collaboration  
+- implementing and optimizing assets in Unity
+
+### Let’s connect!
+- 💼  [linkedIn](https://www.linkedin.com/in/kiia-mari/)  
+- 🌐  [portfolio](kiiamari.notion.site)
+- ✉️  [kiia-mari.kuvaja@metropolia.fi](mailto:kiia-mari.kuvaja@metropolia.fi)
