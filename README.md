@@ -11,5 +11,5 @@ I'm a UI Artist & Designer based in Helsinki with a passion for crafting engagin
 
 ### Let’s connect!
 - 💼  [linkedIn](https://www.linkedin.com/in/kiia-mari/)  
-- 🌐  [portfolio](kiiamari.notion.site)
+- 🌐  [portfolio](https://kiiamari.notion.site/)
 - ✉️  [kiia-mari.kuvaja@metropolia.fi](mailto:kiia-mari.kuvaja@metropolia.fi)
